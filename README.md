@@ -13,3 +13,7 @@ A curated list of awesome resources related to Outer Space
 
 * [arXiv.org](http://arxiv.org/) - Open access to 1,028,481 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [NASA Technical Reports Server](http://ntrs.nasa.gov/search.jsp) - Providing Acess to NASA's Technolo, Research, and Science
+
+### Misc
+
+* [StackExchange Space Exploration](https://space.stackexchange.com/) - a network of questions and answers around Space Exploration 
