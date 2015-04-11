@@ -14,9 +14,10 @@ A curated list of awesome resources related to Outer Space
 * [arXiv.org](http://arxiv.org/) - Open access to 1,028,481 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [NASA Technical Reports Server](http://ntrs.nasa.gov/search.jsp) - Providing Acess to NASA's Technolo, Research, and Science
 
-### Rockets
+### Rockets & Starships
 
 * [Atomic Rockets](http://www.projectrho.com/public_html/rocket/index.php) - This site originally focused on rocketry equations, but has grown to encompass other topics of interest to SF authors and game designers. 
+* [Icarus Interstellar](http://www.icarusinterstellar.org/) - An International organization dedicated to starship research and development.
 
 
 ### Misc
