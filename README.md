@@ -9,6 +9,9 @@ A curated list of awesome resources related to Outer Space
 
 * [SpaceX](https://www.flickr.com/photos/spacexphotos/) - Flickr account of SpaceX, with high resolution images and diagrams released in the Public Domain
 
+### Events
+* [Space Apps Challenge](https://2015.spaceappschallenge.org/) - A two-day hackathon where teams of technologists, scientists, designers, artists, educators, entrepreneurs, developers and students across the globe collaborate and engage with publicly available data to design innovative solutions for global challenges.
+
 ### Research
 
 * [arXiv.org](http://arxiv.org/) - Open access to 1,028,481 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
