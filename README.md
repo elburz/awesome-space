@@ -11,6 +11,7 @@ A curated list of awesome resources related to Outer Space
 
 ### Events
 * [Space Apps Challenge](https://2015.spaceappschallenge.org/) - A two-day hackathon where teams of technologists, scientists, designers, artists, educators, entrepreneurs, developers and students across the globe collaborate and engage with publicly available data to design innovative solutions for global challenges.
+* [New Space 2015 ] (https://newspace.spacefrontier.org/) - A two-day event brining space startups, established companies, and government agencies togeter with  Silicon Valley's investors and tech innovators.
 
 ### Research
 
