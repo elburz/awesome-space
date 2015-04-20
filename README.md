@@ -23,6 +23,9 @@ A curated list of awesome resources related to Outer Space
 * [Atomic Rockets](http://www.projectrho.com/public_html/rocket/index.php) - This site originally focused on rocketry equations, but has grown to encompass other topics of interest to SF authors and game designers. 
 * [Icarus Interstellar](http://www.icarusinterstellar.org/) - An International organization dedicated to starship research and development.
 
+### Education
+
+* [International Space University](http://www.isunet.edu) - The International Space University is a private non-profit institution that specializes in providing graduate-level training to the future leaders of the emerging global space community at its Central Campus in Strasbourg, France, and at locations around the world.
 
 ### Misc
 
