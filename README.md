@@ -23,6 +23,8 @@ A curated list of awesome resources related to Outer Space
 
 * [Atomic Rockets](http://www.projectrho.com/public_html/rocket/index.php) - This site originally focused on rocketry equations, but has grown to encompass other topics of interest to SF authors and game designers. 
 * [Icarus Interstellar](http://www.icarusinterstellar.org/) - An International organization dedicated to starship research and development.
+* [av3-fc](https://github.com/psas/av3-fc) - Open Source event driven flight computer for rockets. Created by the Portland State Aerospace Society.
+* [Portland State Aerospace Society](http://psas.pdx.edu) - Portland State Aerospace Society is a student aerospace engineering project at Portland State University, building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems out there today.
 
 ### Education
 
