@@ -12,6 +12,7 @@ A curated list of awesome resources related to Outer Space
 ### Events
 * [Space Apps Challenge](https://2015.spaceappschallenge.org/) - A two-day hackathon where teams of technologists, scientists, designers, artists, educators, entrepreneurs, developers and students across the globe collaborate and engage with publicly available data to design innovative solutions for global challenges.
 * [New Space 2015 ] (https://newspace.spacefrontier.org/) - A two-day event brining space startups, established companies, and government agencies togeter with  Silicon Valley's investors and tech innovators.
+* [International Astronautical Congress](http://www.iafastro.org) -  Global, multidisciplinary and covering all space sectors and topics, IAC offers everyone the latest space information, developments but above all contacts and potential partnerships.
 
 ### Research
 
