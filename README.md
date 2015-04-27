@@ -12,6 +12,7 @@ A curated list of awesome resources related to Outer Space
 * [Cities at Night](http://www.citiesatnight.org/) - High resolution night time city photos from the ISS. Help by classifying new cities!
 * [Disk Detective](http://diskdetective.org/) - Comb the Milky Way looking for stars that could harbor planet-forming disks.
 * [ISS EarthKAM](https://earthkam.ucsd.edu/home/) - A NASA education program that provides unique, high quality photographs of our planet taken by middle school students.
+* [NASA World Wind](http://worldwind.arc.nasa.gov/) - Leveraging Landsat satellite imagery and Shuttle Radar Topography Mission data, World Wind lets you experience Earth terrain in visually rich 3D, just as if you were really there.
 
 ### Events
 * [Space Apps Challenge](https://2015.spaceappschallenge.org/) - A two-day hackathon where teams of technologists, scientists, designers, artists, educators, entrepreneurs, developers and students across the globe collaborate and engage with publicly available data to design innovative solutions for global challenges.
