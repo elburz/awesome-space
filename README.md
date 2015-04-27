@@ -76,6 +76,7 @@ A curated list of awesome resources related to Outer Space
 * [Telescop Makers' Workshop](http://www.chabotspace.org/visit/telescopeworkshop.asp/) - Telescope Makers’ Workshop is an all-volunteer group committed to helping people build their own telescopes
 * [Radio JOVE](http://radiojove.gsfc.nasa.gov/) - The Radio JOVE project is a hands-on inquiry-based educational project that allows students, teachers and the general public to learn about radio astronomy by building their own radio telescope from an inexpensive kit and/or using remote radio telescopes through the internet
 
-### Misc
+### Misc & Cool Sites
 
-* [StackExchange Space Exploration](https://space.stackexchange.com/) - a network of questions and answers around Space Exploration 
+* [StackExchange Space Exploration](https://space.stackexchange.com/) - A network of questions and answers around Space Exploration.
+* [SpaceHack](http://spacehack.org/) - A directory of ways to participate in space exploration.
