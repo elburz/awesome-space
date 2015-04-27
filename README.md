@@ -43,6 +43,18 @@ A curated list of awesome resources related to Outer Space
 * [Mars Student Imaging Project](http://mars.nasa.gov/msip//) - Teams of students in grades 5 through college sophomore level will have the opportunity to work with scientists, mission planners and educators on the THEMIS team at ASU’s Mars Space Flight Facility or via distance learning, to image a site on Mars using the THEMIS visible wavelength camera onboard the Mars Odyssey spacecraft which is currently orbiting Mars every 2 hours.
 * [Great World Wide Star Count](http://windows.ucar.edu/citizen_science/starcount/index.html/) - Interested individuals have the opportunity to get involved by making observations, and collecting and reporting data.
 
+### Collective Research
+
+* [Milky Way Project](http://milkywayproject.org/) - A project where you can help create a better understanding of how the Milky Way evolves over time and potentially make new unexpected scientific discoveries.
+* [Planet Hunters](http://planethunters.org/) - Help discover new exoplanets (aka extrasolar planets/planets orbiting other stars) by exploring space telescope data from NASA’s Kepler mission.
+* [Galaxy Zoo](http://galaxyzoo.org/) - Hubble needs your help classifying images of hundreds of thousands of galaxies taken by NASA’s Hubble Space Telescope.
+* [Galaxy Zoo Radio](http://radio.galaxyzoo.org/) - Help astronomers discover supermassive black holes.
+* [Moon Zoo](http://moonzoo.org/) - A citizen science project around classifying high resolution images of craters and various parts of the lunar surface
+* [Solar Stormwatch](http://solarstormwatch.com) - Learn how to spot solar explosions and track them across space to Earth. Your work could make a new scientific discovery as well as give astronauts an early warning if dangerous radiation is headed their way.
+* [Stardust@Home](http://stardustathome.ssl.berkeley.edu/) - Together, you and thousands of other Stardust@Home participants will find the first pristine interstellar dust particles ever brought to Earth.
+* [Global Telescope Network](http://gtn.sonoma.edu/) - The Global Telescope Network is a network of small telescopes around the world for the purpose of supporting the science of NASA and ESA high energy astrophysics missions, including XMM-Newton, Swift and GLAST.
+* [Planet Four](http://www.planetfour.org//) - Unearth secrets about Mars’ climate by scouring the Martian surface for distinct features and blotches.
+
 ### Distributed Computing
 
 * [theSkyNet](http://theskynet.org/) - Use your spare computing power to process radio astronomy data
