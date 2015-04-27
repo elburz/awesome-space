@@ -35,14 +35,12 @@ A curated list of awesome resources related to Outer Space
 
 * [International Space University](http://www.isunet.edu) - The International Space University is a private non-profit institution that specializes in providing graduate-level training to the future leaders of the emerging global space community at its Central Campus in Strasbourg, France, and at locations around the world.
 
-
 ### Educational
 
 * [INSPIRE Project](http://theinspireproject.org/) - A non-profit scientific, educational project whose objective is to bring the excitement of observing natural and man-made radio waves to high school students.
 * [My NASA Data](http://mynasadata.larc.nasa.gov/) - Mentoring and inquiry using NASA Data for Atmospheric and earth science for Teachers and Amateurs (MY NASA DATA) is a project to enable K-12 teachers and students, as well as citizen scientists, to explore the large volumes of data that NASA collects about the Earth from space.
 * [Mars Student Imaging Project](http://mars.nasa.gov/msip//) - Teams of students in grades 5 through college sophomore level will have the opportunity to work with scientists, mission planners and educators on the THEMIS team at ASU’s Mars Space Flight Facility or via distance learning, to image a site on Mars using the THEMIS visible wavelength camera onboard the Mars Odyssey spacecraft which is currently orbiting Mars every 2 hours.
 * [Great World Wide Star Count](http://windows.ucar.edu/citizen_science/starcount/index.html/) - Interested individuals have the opportunity to get involved by making observations, and collecting and reporting data.
-
 
 ### Distributed Computing
 
@@ -56,6 +54,7 @@ A curated list of awesome resources related to Outer Space
 ### Telescopes
 
 * [Telescop Makers' Workshop](http://www.chabotspace.org/visit/telescopeworkshop.asp/) - Telescope Makers’ Workshop is an all-volunteer group committed to helping people build their own telescopes
+* [Radio JOVE](http://radiojove.gsfc.nasa.gov/) - The Radio JOVE project is a hands-on inquiry-based educational project that allows students, teachers and the general public to learn about radio astronomy by building their own radio telescope from an inexpensive kit and/or using remote radio telescopes through the internet
 
 ### Misc
 
