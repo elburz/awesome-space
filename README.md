@@ -26,9 +26,20 @@ A curated list of awesome resources related to Outer Space
 * [av3-fc](https://github.com/psas/av3-fc) - Open Source event driven flight computer for rockets. Created by the Portland State Aerospace Society.
 * [Portland State Aerospace Society](http://psas.pdx.edu) - Portland State Aerospace Society is a student aerospace engineering project at Portland State University, building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems out there today.
 
-### Education
+### Higher Learning
 
 * [International Space University](http://www.isunet.edu) - The International Space University is a private non-profit institution that specializes in providing graduate-level training to the future leaders of the emerging global space community at its Central Campus in Strasbourg, France, and at locations around the world.
+
+
+### Educational
+
+* [INSPIRE Project](http://theinspireproject.org/) - A non-profit scientific, educational project whose objective is to bring the excitement of observing natural and man-made radio waves to high school students.
+* [My NASA Data](http://mynasadata.larc.nasa.gov/) - Mentoring and inquiry using NASA Data for Atmospheric and earth science for Teachers and Amateurs (MY NASA DATA) is a project to enable K-12 teachers and students, as well as citizen scientists, to explore the large volumes of data that NASA collects about the Earth from space.
+* [INSPIRE Project](http://theinspireproject.org/) - A non-profit scientific, educational project whose objective is to bring the excitement of observing natural and man-made radio waves to high school students.
+* [Mars Student Imaging Project](http://mars.nasa.gov/msip//) - Teams of students in grades 5 through college sophomore level will have the opportunity to work with scientists, mission planners and educators on the THEMIS team at ASU’s Mars Space Flight Facility or via distance learning, to image a site on Mars using the THEMIS visible wavelength camera onboard the Mars Odyssey spacecraft which is currently orbiting Mars every 2 hours.
+* [Great World Wide Star Count](http://windows.ucar.edu/citizen_science/starcount/index.html/) - Interested individuals have the opportunity to get involved by making observations, and collecting and reporting data.
+* [INSPIRE Project](http://theinspireproject.org/) - A non-profit scientific, educational project whose objective is to bring the excitement of observing natural and man-made radio waves to high school students
+
 
 ### Distributed Computing
 
@@ -38,6 +49,10 @@ A curated list of awesome resources related to Outer Space
 * [Constellation](http://aerospaceresearch.net/constellation/) - A community that provides distributed computing power to aerospace research projects that might not otherwise have access to supercomputers
 * [Milky Way@Home](http://milkyway.cs.rpi.edu/) - Milkyway@Home uses the BOINC platform to harness volunteered computing resources, creating a highly accurate three dimensional model of the Milky Way galaxy using data gathered by the Sloan Digital Sky Survey. 
 * [SETI@Home](http://setiathome.berkeley.edu/) - SETI (Search for Extraterrestrial Intelligence) is a scientific area whose goal is to detect intelligent life outside Earth
+
+### Telescopes
+
+* [Telescop Makers' Workshop](http://www.chabotspace.org/visit/telescopeworkshop.asp/) - Telescope Makers’ Workshop is an all-volunteer group committed to helping people build their own telescopes
 
 ### Misc
 
