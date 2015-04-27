@@ -30,6 +30,15 @@ A curated list of awesome resources related to Outer Space
 
 * [International Space University](http://www.isunet.edu) - The International Space University is a private non-profit institution that specializes in providing graduate-level training to the future leaders of the emerging global space community at its Central Campus in Strasbourg, France, and at locations around the world.
 
+### Distributed Computing
+
+* [theSkyNet](http://theskynet.org/) - Use your spare computing power to process radio astronomy data
+* [LHC@home](http://lhcathome.web.cern.ch/) - By contributing spare processing capacity on your computer, people are able to run simulations of beam dynamics and particle collisions in the Large Hadron Collider’s giant detectors.
+* [Einstein@Home](http://einstein.phys.uwm.edu) - An effort to discover new neutron stars (massive stars that have collapsed under their own weight) and hopefully directly detect one of Albert Einstein’s predictions for the first time: gravitational waves
+* [Constellation](http://aerospaceresearch.net/constellation/) - A community that provides distributed computing power to aerospace research projects that might not otherwise have access to supercomputers
+* [Milky Way@Home](http://milkyway.cs.rpi.edu/) - Milkyway@Home uses the BOINC platform to harness volunteered computing resources, creating a highly accurate three dimensional model of the Milky Way galaxy using data gathered by the Sloan Digital Sky Survey. 
+* [SETI@Home](http://setiathome.berkeley.edu/) - SETI (Search for Extraterrestrial Intelligence) is a scientific area whose goal is to detect intelligent life outside Earth
+
 ### Misc
 
 * [StackExchange Space Exploration](https://space.stackexchange.com/) - a network of questions and answers around Space Exploration 
