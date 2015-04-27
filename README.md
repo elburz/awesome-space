@@ -14,7 +14,7 @@ A curated list of awesome resources related to Outer Space
 * [New Space 2015 ] (https://newspace.spacefrontier.org/) - A two-day event brining space startups, established companies, and government agencies togeter with  Silicon Valley's investors and tech innovators.
 * [International Astronautical Congress](http://www.iafastro.org) -  Global, multidisciplinary and covering all space sectors and topics, IAC offers everyone the latest space information, developments but above all contacts and potential partnerships.
 
-### Research
+### Reference
 
 * [arXiv.org](http://arxiv.org/) - Open access to 1,028,481 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [NASA Technical Reports Server](http://ntrs.nasa.gov/search.jsp) - Providing Acess to NASA's Technolo, Research, and Science
