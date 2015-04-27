@@ -40,10 +40,8 @@ A curated list of awesome resources related to Outer Space
 
 * [INSPIRE Project](http://theinspireproject.org/) - A non-profit scientific, educational project whose objective is to bring the excitement of observing natural and man-made radio waves to high school students.
 * [My NASA Data](http://mynasadata.larc.nasa.gov/) - Mentoring and inquiry using NASA Data for Atmospheric and earth science for Teachers and Amateurs (MY NASA DATA) is a project to enable K-12 teachers and students, as well as citizen scientists, to explore the large volumes of data that NASA collects about the Earth from space.
-* [INSPIRE Project](http://theinspireproject.org/) - A non-profit scientific, educational project whose objective is to bring the excitement of observing natural and man-made radio waves to high school students.
 * [Mars Student Imaging Project](http://mars.nasa.gov/msip//) - Teams of students in grades 5 through college sophomore level will have the opportunity to work with scientists, mission planners and educators on the THEMIS team at ASU’s Mars Space Flight Facility or via distance learning, to image a site on Mars using the THEMIS visible wavelength camera onboard the Mars Odyssey spacecraft which is currently orbiting Mars every 2 hours.
 * [Great World Wide Star Count](http://windows.ucar.edu/citizen_science/starcount/index.html/) - Interested individuals have the opportunity to get involved by making observations, and collecting and reporting data.
-* [INSPIRE Project](http://theinspireproject.org/) - A non-profit scientific, educational project whose objective is to bring the excitement of observing natural and man-made radio waves to high school students
 
 
 ### Distributed Computing
