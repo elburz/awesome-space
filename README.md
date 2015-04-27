@@ -25,6 +25,13 @@ A curated list of awesome resources related to Outer Space
 * [arXiv.org](http://arxiv.org/) - Open access to 1,028,481 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [NASA Technical Reports Server](http://ntrs.nasa.gov/search.jsp) - Providing Acess to NASA's Technolo, Research, and Science
 
+### Research
+
+* [Vision Workbench](http://ti.arc.nasa.gov/tech/asr/intelligent-robotics/nasa-vision-workbench/) - The VW is a general purpose image processing and computer vision library.
+* [Flight Analogs Project](https://bedreststudy.jsc.nasa.gov/apply.aspx) - In the Flight Analogs Project investigations, volunteers are in a controlled research environment, spending various periods in bed to simulate spaceflight, in the Flight Analog Research Center located within the General Clinical Research Center at the University of Texas Medical Branch (Galveston, Texas).
+* [PolAres](http://www.oewf.org/cms/polares.phtml) - The PolAres program aims to develop strategies for human-robotic interactions in preparation for a future human-robotic Mars surface expedition.
+* [DASHlink](https://c3.nasa.gov/dashlink) - A virtual laboratory for scientists and engineers to disseminate results and collaborate on research problems in health management technologies for aeronautics systems.
+
 ### Rockets & Starships
 
 * [Atomic Rockets](http://www.projectrho.com/public_html/rocket/index.php) - This site originally focused on rocketry equations, but has grown to encompass other topics of interest to SF authors and game designers. 
