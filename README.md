@@ -33,6 +33,7 @@ A curated list of awesome resources related to Outer Space
 * [DASHlink](https://c3.nasa.gov/dashlink) - A virtual laboratory for scientists and engineers to disseminate results and collaborate on research problems in health management technologies for aeronautics systems.
 
 ### Policy
+* [Outer Space Treaty](http://www.unoosa.org/oosa/SpaceLaw/outerspt.html) - Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies.
 
 ### Rockets & Starships
 
