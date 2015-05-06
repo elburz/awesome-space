@@ -20,6 +20,10 @@ A curated list of awesome resources related to Outer Space
 * [International Astronautical Congress](http://www.iafastro.org) -  Global, multidisciplinary and covering all space sectors and topics, IAC offers everyone the latest space information, developments but above all contacts and potential partnerships.
 * [Night Sky Network](http://nightsky.jpl.nasa.gov/index.cfm) -  The Night Sky Network is a nationwide coalition that regularly shares their knowledge, time, and telescopes to bring amazing aspects of astronomy to you (it’s essentially a one-stop-shopping site to find a club or event in your town)
 
+### Software
+* [NASA Software Catalogue](https://software.nasa.gov) - An extensive portfolio of software products for a wide variety of technical applications, with varying licenses ranging from Open Source to Government Only.
+
+
 ### Reference
 
 * [arXiv.org](http://arxiv.org/) - Open access to 1,028,481 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
