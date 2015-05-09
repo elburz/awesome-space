@@ -48,6 +48,7 @@ A curated list of awesome resources related to Outer Space
 * [Icarus Interstellar](http://www.icarusinterstellar.org/) - An International organization dedicated to starship research and development.
 * [av3-fc](https://github.com/psas/av3-fc) - Open Source event driven flight computer for rockets. Created by the Portland State Aerospace Society.
 * [Portland State Aerospace Society](http://psas.pdx.edu) - Portland State Aerospace Society is a student aerospace engineering project at Portland State University, building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems out there today.
+* [DIY Rocket Science](http://stephenmurphey.com/open-source-space-program/) - Open Source Hardware is ushering in a new era of personal & DIY space exploration. Starting your own space program has never been easier. Only a few years ago you needed millions (or billions) of dollars and a huge manufacturing facility. Not anymore. Thanks to low cost software and manufacturing tools – you can build satellites in your garage.
 
 ### Higher Learning
 
