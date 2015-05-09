@@ -22,10 +22,13 @@ A curated list of awesome resources related to Outer Space
 * [New Space 2015] (https://newspace.spacefrontier.org/) - A two-day event brining space startups, established companies, and government agencies togeter with  Silicon Valley's investors and tech innovators.
 * [International Astronautical Congress](http://www.iafastro.org) -  Global, multidisciplinary and covering all space sectors and topics, IAC offers everyone the latest space information, developments but above all contacts and potential partnerships.
 * [Night Sky Network](http://nightsky.jpl.nasa.gov/index.cfm) -  The Night Sky Network is a nationwide coalition that regularly shares their knowledge, time, and telescopes to bring amazing aspects of astronomy to you (it’s essentially a one-stop-shopping site to find a club or event in your town)
+* [The National Space Society’s (NSS) annual International Space Development Conference® (ISDC®)](http://isdc2015.nss.org/wordpress/) - This conference has attracted up to 1300 attendees from over 20 countries, with ISDC® 2014 bringing together over 1000 attendees. ISDC® also features plenary talks, keynote speakers, multi-disciplinary tracks, exhibit hall, design contests, book signing, and more.
+* [American Institute of Aeronautics and Astronautics](http://www.aiaa.org/events/) - List of worldwide space events.
+* [The International Conference for Aerospace Experts, Academics, Military Personnel, and Industry Leaders](https://www.aeroconf.org/) - The international IEEE Aerospace Conference, with AIAA and PHM Society as technical cosponsors, is organized to promote interdisciplinary understanding of aerospace systems, their underlying science and technology, and their applications to government and commercial endeavors.
 
 ### Software
 * [NASA Software Catalogue](https://software.nasa.gov) - An extensive portfolio of software products for a wide variety of technical applications, with varying licenses ranging from Open Source to Government Only.
-
+* [Public Domain Aeronautical Software](http://www.pdas.com/aerosoft.html) - A list of Public Domain Aeronautical Softwares.
 
 ### Reference
 
@@ -60,6 +63,10 @@ A curated list of awesome resources related to Outer Space
 * [My NASA Data](http://mynasadata.larc.nasa.gov/) - Mentoring and inquiry using NASA Data for Atmospheric and earth science for Teachers and Amateurs (MY NASA DATA) is a project to enable K-12 teachers and students, as well as citizen scientists, to explore the large volumes of data that NASA collects about the Earth from space.
 * [Mars Student Imaging Project](http://mars.nasa.gov/msip//) - Teams of students in grades 5 through college sophomore level will have the opportunity to work with scientists, mission planners and educators on the THEMIS team at ASU’s Mars Space Flight Facility or via distance learning, to image a site on Mars using the THEMIS visible wavelength camera onboard the Mars Odyssey spacecraft which is currently orbiting Mars every 2 hours.
 * [Great World Wide Star Count](http://windows.ucar.edu/citizen_science/starcount/index.html/) - Interested individuals have the opportunity to get involved by making observations, and collecting and reporting data.
+* [Crash Course Astronomy](https://www.youtube.com/watch?v=0rHUDWjR5gg) - An easily accessible and informative introduction to outer space.
+* [McGill Institute for Aerospace Engineering](https://www.mcgill.ca/miae/mcgill-institute-aerospace-engineering) - This training program will prepare graduate-level engineering students to step directly into industry from university research projects, thereby helping to maintain and expand Canada's strong presence in the global aerospace industry.
+* [Aerospace education in Quebec](http://www.investquebec.com/international/en/industries/aerospace/cutting-edge-training.html) - When it comes to training engineers, technicians and specialized workers, Québec has partnered with key industry players to develop training programs adapted to industry needs.
+* [List of Aerospace Universities and Colleges in the U.S.](http://study.com/aerospace_universities.html) - Students looking to earn a degree in aerospace engineering must consider a few things when choosing a school, such as aerospace programs available, research and work-study opportunities and a university's accreditation status.
 
 ### Collective Research
 
