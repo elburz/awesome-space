@@ -19,7 +19,7 @@ A curated list of awesome resources related to Outer Space
 
 ### Events
 * [Space Apps Challenge](https://2015.spaceappschallenge.org/) - A two-day hackathon where teams of technologists, scientists, designers, artists, educators, entrepreneurs, developers and students across the globe collaborate and engage with publicly available data to design innovative solutions for global challenges.
-* [New Space 2015] (https://newspace.spacefrontier.org/) - A two-day event brining space startups, established companies, and government agencies togeter with  Silicon Valley's investors and tech innovators.
+* [New Space 2015] (https://newspace.spacefrontier.org/) - A two-day event bringing space startups, established companies, and government agencies togeter with  Silicon Valley's investors and tech innovators.
 * [International Astronautical Congress](http://www.iafastro.org) -  Global, multidisciplinary and covering all space sectors and topics, IAC offers everyone the latest space information, developments but above all contacts and potential partnerships.
 * [Night Sky Network](http://nightsky.jpl.nasa.gov/index.cfm) -  The Night Sky Network is a nationwide coalition that regularly shares their knowledge, time, and telescopes to bring amazing aspects of astronomy to you (it’s essentially a one-stop-shopping site to find a club or event in your town)
 * [The National Space Society’s (NSS) annual International Space Development Conference® (ISDC®)](http://isdc2015.nss.org/wordpress/) - This conference has attracted up to 1300 attendees from over 20 countries, with ISDC® 2014 bringing together over 1000 attendees. ISDC® also features plenary talks, keynote speakers, multi-disciplinary tracks, exhibit hall, design contests, book signing, and more.
