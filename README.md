@@ -98,3 +98,7 @@ A curated list of awesome resources related to Outer Space
 
 * [StackExchange Space Exploration](https://space.stackexchange.com/) - A network of questions and answers around Space Exploration.
 * [SpaceHack](http://spacehack.org/) - A directory of ways to participate in space exploration.
+
+### Other space-related lists at GitHub
+
+* [Awesome space books](https://github.com/Hunter-Github/awesome-space-books) - a list of mostly offline books on spaceflight and science.
