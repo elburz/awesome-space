@@ -5,6 +5,7 @@ A curated list of awesome resources related to Outer Space
 
 * [SpaceJobs.US](http://spacejobs.us/) - Free and interactive listing of Space Industry positions across all disciplines in the United States
 * [Space Careers](https://www.space-careers.com/) - Listings of jobs and job applications in the space industry (worldwide)
+* [Rocket Crew](https://rocketcrew.space/) - Listings of jobs from New Space companies in engineering, software development, marketing, and more.
 
 ### Media
 
