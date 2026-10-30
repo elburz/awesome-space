@@ -30,6 +30,7 @@ A curated list of awesome resources related to Outer Space
 ### Software
 * [NASA Software Catalogue](https://software.nasa.gov) - An extensive portfolio of software products for a wide variety of technical applications, with varying licenses ranging from Open Source to Government Only.
 * [Public Domain Aeronautical Software](http://www.pdas.com/aerosoft.html) - A list of Public Domain Aeronautical Softwares.
+* [Space Water Logistics](https://github.com/SpaceOceanCorp/space-water-logistics) - Open models for crew water recycling and for comparing water shipped from Earth with water mined on the Moon, using NASA life support reference values.
 
 ### Reference
 
