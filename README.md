@@ -30,6 +30,7 @@ A curated list of awesome resources related to Outer Space
 ### Software
 * [NASA Software Catalogue](https://software.nasa.gov) - An extensive portfolio of software products for a wide variety of technical applications, with varying licenses ranging from Open Source to Government Only.
 * [Public Domain Aeronautical Software](http://www.pdas.com/aerosoft.html) - A list of Public Domain Aeronautical Softwares.
+* [Martian Alpha](https://martianalpha.com/?utm_source=awesome-space&utm_medium=directory) - Every rocket launch tied to the stocks it moves, plus catalysts, government contracts and private space raises in one place. Free forever, no card.
 
 ### Reference
 
