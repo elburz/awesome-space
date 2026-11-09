@@ -68,6 +68,7 @@ A curated list of awesome resources related to Outer Space
 * [McGill Institute for Aerospace Engineering](https://www.mcgill.ca/miae/mcgill-institute-aerospace-engineering) - This training program will prepare graduate-level engineering students to step directly into industry from university research projects, thereby helping to maintain and expand Canada's strong presence in the global aerospace industry.
 * [Aerospace education in Quebec](http://www.investquebec.com/international/en/industries/aerospace/cutting-edge-training.html) - When it comes to training engineers, technicians and specialized workers, Québec has partnered with key industry players to develop training programs adapted to industry needs.
 * [List of Aerospace Universities and Colleges in the U.S.](http://study.com/aerospace_universities.html) - Students looking to earn a degree in aerospace engineering must consider a few things when choosing a school, such as aerospace programs available, research and work-study opportunities and a university's accreditation status.
+* [Perigee](https://perigee.info/) - Free web app that shows the satellites around the Earth, the spacecraft orbiting the Moon and Mars and the probes of the solar system in 3D, in real time. Includes short guides for students (where is the ISS, next eclipse, moon phase). Open source, no account needed.
 
 ### Collective Research
 
